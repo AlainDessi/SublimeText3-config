@@ -1,0 +1,18 @@
+{
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Alignment",
+		"Blade Snippets",
+		"DocBlockr",
+		"Git",
+		"Laravel Blade Highlighter",
+		"Material Theme",
+		"Package Control",
+		"Preap",
+		"SideBarEnhancements",
+		"Theme - Brogrammer"
+	]
+}
