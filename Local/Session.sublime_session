@@ -2039,26 +2039,10 @@
 			"buffers":
 			[
 				{
-					"file": "/home/alain/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+					"file": "/home/alain/.config/sublime-text-3/Backup/.gitignore",
 					"settings":
 					{
-						"buffer_size": 870,
-						"line_ending": "Unix"
-					}
-				},
-				{
-					"file": "/home/alain/development/alain-dessi.com/resources/views/admin/headmenu.blade.php",
-					"settings":
-					{
-						"buffer_size": 1332,
-						"line_ending": "Unix"
-					}
-				},
-				{
-					"file": "/home/alain/development/alain-dessi.com/resources/views/front/default.blade.php",
-					"settings":
-					{
-						"buffer_size": 4654,
+						"buffer_size": 2,
 						"line_ending": "Unix"
 					}
 				}
@@ -2161,18 +2145,12 @@
 				"side_bar_visible": false,
 				"status_bar_visible": false
 			},
-			"expanded_folders":
-			[
-				"/home/alain/development/alain-dessi.com",
-				"/home/alain/development/alain-dessi.com/resources",
-				"/home/alain/development/alain-dessi.com/resources/templates",
-				"/home/alain/development/alain-dessi.com/resources/views",
-				"/home/alain/development/alain-dessi.com/resources/views/front"
-			],
 			"file_history":
 			[
-				"/home/alain/development/alain-dessi.com/resources/views/front/contact.blade.php",
+				"/home/alain/.config/sublime-text-3/.gitignore",
+				"/home/alain/development/alain-dessi.com/resources/views/admin/headmenu.blade.php",
 				"/home/alain/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+				"/home/alain/development/alain-dessi.com/resources/views/front/contact.blade.php",
 				"/home/alain/development/alain-dessi.com/public/css/front.theme.scss",
 				"/home/alain/development/alain-dessi.com/resources/views/admin/default.blade.php",
 				"/home/alain/development/alain-dessi.com/composer.json",
@@ -2273,7 +2251,6 @@
 				"/home/alain/.config/sublime-text-3/Packages/User/scope_hunter.sublime-settings",
 				"/home/alain/development/alain-dessi.com/Envoy.blade.php",
 				"/home/alain/development/alain-dessi.com/public/css/jquery.modal.css",
-				"/home/alain/development/alain-dessi.com/resources/views/admin/headmenu.blade.php",
 				"/home/alain/development/alain-dessi.com/public/css/buscobon.admin.css",
 				"/home/alain/development/blogphoto/Gruntfile.js",
 				"/home/alain/development/alain-dessi.com/app/Controller/Auth/AuthController.php",
@@ -2297,8 +2274,7 @@
 				"/home/alain/development/alain-dessi.com/bdd/migration/CreateProject_img.sql",
 				"/home/alain/development/alain-dessi.com/resources/views/admin/projects/create.blade.php",
 				"/home/alain/Téléchargements/projects.sql",
-				"/home/alain/development/alain-dessi.com/app/Model/Project_techno.php",
-				"/home/alain/development/alain-dessi.com/resources/views/front/headermenu.blade.php"
+				"/home/alain/development/alain-dessi.com/app/Model/Project_techno.php"
 			],
 			"find":
 			{
@@ -2462,91 +2438,35 @@
 			"groups":
 			[
 				{
-					"selected": 1,
+					"selected": 0,
 					"sheets":
 					[
 						{
 							"buffer": 0,
-							"file": "/home/alain/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+							"file": "/home/alain/.config/sublime-text-3/Backup/.gitignore",
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 870,
+								"buffer_size": 2,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										447,
-										447
+										2,
+										2
 									]
 								],
 								"settings":
 								{
-									"syntax": "Packages/JavaScript/JSON.sublime-syntax"
-								},
-								"translation.x": 0.0,
-								"translation.y": 324.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 2,
-							"type": "text"
-						},
-						{
-							"buffer": 1,
-							"file": "/home/alain/development/alain-dessi.com/resources/views/admin/headmenu.blade.php",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 1332,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										0,
-										0
-									]
-								],
-								"settings":
-								{
-									"syntax": "Packages/laravel-blade/blade.sublime-syntax"
+									"syntax": "Packages/Theme - Piatto/icons/Langs/Git.tmLanguage"
 								},
 								"translation.x": 0.0,
 								"translation.y": 0.0,
 								"zoom_level": 1.0
 							},
 							"stack_index": 0,
-							"type": "text"
-						},
-						{
-							"buffer": 2,
-							"file": "/home/alain/development/alain-dessi.com/resources/views/front/default.blade.php",
-							"semi_transient": true,
-							"settings":
-							{
-								"buffer_size": 4654,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										0,
-										0
-									]
-								],
-								"settings":
-								{
-									"syntax": "Packages/laravel-blade/blade.sublime-syntax"
-								},
-								"translation.x": -0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 1,
 							"type": "text"
 						}
 					]
@@ -2592,8 +2512,8 @@
 				"height": 176.0
 			},
 			"pinned_build_system": "",
-			"position": "0,0,0,0,0,122,113,1772,1030,1920,1080",
-			"project": "alain-dessi.sublime-project",
+			"position": "0,0,0,0,0,415,420,1751,1337,1920,1080",
+			"project": "",
 			"replace":
 			{
 				"height": 82.0
@@ -3072,7 +2992,7 @@
 			{
 			},
 			"window_id": 159,
-			"workspace_name": "/home/alain/Documents/sublime-projects/alain-dessi.sublime-workspace"
+			"workspace_name": ""
 		}
 	],
 	"workspaces":
