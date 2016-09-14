@@ -1,0 +1,36 @@
+{
+	"schema_version": "3.0.0",
+	"packages": [
+		{
+			"name": "Laravel Blade Highlighter",
+			"description": "Laravel Blade syntax highlighter support for Sublime Text.",
+			"author": "Eric Percifield",
+			"homepage": "https://github.com/Medalink/laravel-blade",
+			"details": "https://github.com/Medalink/laravel-blade",
+			"labels": ["php", "laravel", "blade", "language syntax"],
+			"releases": [
+				{
+					"sublime_text": "<=3083",
+					"platforms": ["windows", "osx", "linux"],
+					"version": "1.5.3",
+					"url": "https://nodeload.github.com/Medalink/laravel-blade/zip/1.5.3",
+					"date": "2015-05-13 11:09:00"
+				},
+				{
+					"sublime_text": "3084",
+					"platforms": ["windows", "osx", "linux"],
+					"version": "1.5.6",
+					"url": "https://nodeload.github.com/Medalink/laravel-blade/zip/1.5.6",
+					"date": "2015-10-08 12:57:00"
+				},
+				{
+					"sublime_text": ">3084",
+					"platforms": ["windows", "osx", "linux"],
+					"version": "1.6.0",
+					"url": "https://nodeload.github.com/Medalink/laravel-blade/zip/1.6.0",
+					"date": "2016-07-09 09:35:00"
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,20 @@
+<snippet>
+	<content><![CDATA[
+/**
+ * Description courte du fichier
+ *
+ * MySQL verion 5.5.43
+ * PHP version 5.6.10
+ *
+ * @category  	Catérogie
+ * @package   	None
+ * @author    	DESSI Alain <contact@alain-dessi.com>
+ * @copyright 	2015 Dessi Alain
+ * @link      	http://www.alain-dessi.com
+ */
+
+]]></content>
+<tabTrigger>ad_comment</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>

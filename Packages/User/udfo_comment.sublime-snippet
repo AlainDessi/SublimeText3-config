@@ -1,0 +1,22 @@
+<snippet>
+	<content><![CDATA[
+
+/**
+ * Description courte du fichier
+ *
+ * MySQL verion 5.5.43
+ * PHP version 5.6.10
+ * Laravel version 5.1
+ *
+ * @package   	site web udfo06.org
+ * @author    	DESSI Alain <contact@alain-dessi.com>
+ * @link      	http://www.alain-dessi.com
+ * @copyright 	2015, udfo06.org
+ */
+
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>udfocom</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>

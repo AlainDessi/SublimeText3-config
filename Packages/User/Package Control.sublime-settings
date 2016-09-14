@@ -1,0 +1,32 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Alignment",
+		"DocBlockr",
+		"Git-StatusBar",
+		"Laravel Blade Highlighter",
+		"Markdown Preview",
+		"Material Theme",
+		"MJML-syntax",
+		"One Dark Color Scheme",
+		"One Dark Material - Theme",
+		"Package Control",
+		"PHP-Twig",
+		"Preap",
+		"Predawn",
+		"Sass",
+		"ScopeHunter",
+		"SCSS",
+		"SideBarEnhancements",
+		"Theme - Afterglow",
+		"Theme - Brogrammer",
+		"Theme - Nexus",
+		"Theme - Piatto",
+		"Theme - Spacegray",
+		"Xdebug Client"
+	]
+}
